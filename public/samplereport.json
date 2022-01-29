@@ -1,0 +1,278 @@
+{
+	"code": "SUCCESS",
+	"message": "Request Successful",
+	"data": {
+		"accounts": [
+			{
+				"source": "CRC",
+				"data": [
+					{
+						"accountNo": "0012916639",
+						"institutionName": "UNION BANK OF NIGERIA PLC",
+						"creditType": "Overdraft for Commercial Banks",
+						"currency": "NGN",
+						"date": "2018-12-09T23:00:00.000Z",
+						"maturityDate": "2019-03-07T23:00:00.000Z",
+						"loanAmount": 5000,
+						"outstandingBalance": 0,
+						"overdueAmount": 0,
+						"status": "OPEN",
+						"performanceStatus": "Performing",
+						"dateReported": "2019-04-29T23:00:10.000Z",
+						"lastUpdated": null,
+						"delinquencyStatus": null,
+						"paymentHistory": [
+							{
+								"month": "2019-04",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-03",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-02",
+								"overdueDays": 0
+							}
+						]
+					},
+					{
+						"accountNo": "744Z703182690502",
+						"institutionName": "UNION BANK OF NIGERIA PLC",
+						"creditType": "Term Loan for Commercial Banks",
+						"currency": "NGN",
+						"date": "2018-09-25T23:00:00.000Z",
+						"maturityDate": "2020-09-29T23:00:00.000Z",
+						"loanAmount": 250800,
+						"outstandingBalance": 0,
+						"overdueAmount": 0,
+						"status": "CLOSED",
+						"performanceStatus": "Performing",
+						"dateReported": "2020-10-02T23:26:01.000Z",
+						"lastUpdated": null,
+						"delinquencyStatus": null,
+						"paymentHistory": [
+							{
+								"month": "2020-10",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-08",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-07",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-06",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-05",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-04",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-03",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-02",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-12",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-11",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-10",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-09",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-08",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-07",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-06",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-05",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-04",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-03",
+								"overdueDays": 0
+							},
+							{
+								"month": "2019-02",
+								"overdueDays": 0
+							}
+						]
+					},
+					{
+						"accountNo": "162N609150920006",
+						"institutionName": "UNION BANK OF NIGERIA PLC",
+						"creditType": "Others for Others from Commercial Banks",
+						"currency": "NGN",
+						"date": "2015-03-30T23:00:00.000Z",
+						"maturityDate": "2016-09-29T23:00:00.000Z",
+						"loanAmount": 0,
+						"outstandingBalance": 0,
+						"overdueAmount": 0,
+						"status": "CLOSED",
+						"performanceStatus": "Performing",
+						"dateReported": "2016-11-29T23:00:04.000Z",
+						"lastUpdated": null,
+						"delinquencyStatus": null,
+						"paymentHistory": []
+					}
+				]
+			},
+			{
+				"source": "FIRST_CENTRAL",
+				"data": [
+					{
+						"accountNo": "744Z703182690502",
+						"institutionName": "Union Bank Nigeria Plc Lagos",
+						"creditType": "Personal fixed term loan",
+						"currency": "NGN",
+						"date": "2018-09-26T00:00:00.000Z",
+						"maturityDate": "2020-09-30T00:00:00.000Z",
+						"loanAmount": 250800,
+						"outstandingBalance": 0,
+						"overdueAmount": 0,
+						"status": "CLOSED",
+						"performanceStatus": "Performing",
+						"dateReported": null,
+						"lastUpdated": "2021-01-14T00:00:00.000Z",
+						"delinquencyStatus": null,
+						"paymentHistory": [
+							{
+								"month": "2020-02",
+								"overdueDays": 5
+							},
+							{
+								"month": "2020-03",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-04",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-05",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-06",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-07",
+								"overdueDays": 0
+							},
+							{
+								"month": "2020-08",
+								"overdueDays": 0
+							}
+						]
+					}
+				]
+			},
+			{
+				"source": "CREDIT_REGISTRY",
+				"data": [
+					{
+						"accountNo": "0012916639",
+						"institutionName": "Union Bank of Nigeria Plc",
+						"creditType": "Overdraft",
+						"currency": "NGN",
+						"date": "2018-12-10T00:00:00.000Z",
+						"maturityDate": "2019-03-06T00:00:00.000Z",
+						"loanAmount": 5000,
+						"outstandingBalance": 0,
+						"overdueAmount": null,
+						"status": "CLOSED",
+						"performanceStatus": "Performing",
+						"dateReported": "2015-03-24T09:13:25.313Z",
+						"lastUpdated": "2019-10-15T01:19:46.917Z",
+						"delinquencyStatus": "Non-performing (sub-standard - 90 days) - 1 time",
+						"paymentHistory": []
+					},
+					{
+						"accountNo": "744Z703182690502",
+						"institutionName": "Union Bank of Nigeria Plc",
+						"creditType": "Term Loan",
+						"currency": "NGN",
+						"date": "2018-09-26T00:00:00.000Z",
+						"maturityDate": "2020-08-27T00:00:00.000Z",
+						"loanAmount": 0,
+						"outstandingBalance": 0,
+						"overdueAmount": null,
+						"status": "CLOSED",
+						"performanceStatus": "Performing",
+						"dateReported": "2018-10-11T18:50:20.620Z",
+						"lastUpdated": "2020-10-12T00:11:06.183Z",
+						"delinquencyStatus": "None",
+						"paymentHistory": []
+					},
+					{
+						"accountNo": "162N609150920006",
+						"institutionName": "Union Bank of Nigeria Plc",
+						"creditType": "Term Loan",
+						"currency": "NGN",
+						"date": "2015-03-31T00:00:00.000Z",
+						"maturityDate": "2016-09-09T00:00:00.000Z",
+						"loanAmount": 94996,
+						"outstandingBalance": 0,
+						"overdueAmount": null,
+						"status": "CLOSED",
+						"performanceStatus": "Performing",
+						"dateReported": "2015-06-18T20:32:12.327Z",
+						"lastUpdated": "2017-06-02T05:19:35.903Z",
+						"delinquencyStatus": "None",
+						"paymentHistory": []
+					},
+					{
+						"accountNo": "1626280000109",
+						"institutionName": "Union Bank of Nigeria Plc",
+						"creditType": "Rent Loan",
+						"currency": "NGN",
+						"date": "2013-09-02T00:00:00.000Z",
+						"maturityDate": "2014-12-31T00:00:00.000Z",
+						"loanAmount": 190000,
+						"outstandingBalance": 0,
+						"overdueAmount": null,
+						"status": "CLOSED",
+						"performanceStatus": "Performing",
+						"dateReported": "2013-10-08T10:20:56.630Z",
+						"lastUpdated": "2015-07-15T05:39:55.437Z",
+						"delinquencyStatus": "None",
+						"paymentHistory": []
+					}
+				]
+			}
+		]
+	}
+}
