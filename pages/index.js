@@ -87,14 +87,14 @@ export default function Home() {
   };
   return (
     <div className='container'>
-      <nav className='nav'>
+      {/* <nav className='nav'>
         <Link href='/address'>
           <a className='nav-link'>Address Verification</a>
         </Link>
         <Link href='/credit'>
           <a className='nav-link'>Credit Report</a>
         </Link>
-      </nav>
+      </nav> */}
 
       <div className='container  my-5 my-5 mx-auto col-lg-6 col-md-8 col-sm-12'>
         <div className='text-center'>
